@@ -1,6 +1,5 @@
-/* место для вашего кода */
 
-.header{
+.header {
     display: grid;
     grid-template-columns: 1fr 148px 1fr;
     align-items: center;
@@ -8,12 +7,11 @@
     font-size: 18px;
 }
 
-.header_menu{
+.header_menu {
     margin: 0 auto;
-
 }
 
-.header__links-list{
+.header__links-list {
     display: flex;
     gap: 30px;
     list-style: circle;
